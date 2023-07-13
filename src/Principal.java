@@ -1,8 +1,7 @@
-public class Principal {
-    import java.util.Locale;
+import java.util.Locale;
 import java.util.Scanner;
 
-    public class Principall {
+public class Principal {
         public static void main(String[] args) {
             Scanner leitura = new Scanner(System.in);
             Aluno aluno1 = new Aluno();
@@ -25,4 +24,5 @@ import java.util.Scanner;
         Aluno localizado
         Liberado para conferir as notas
         """);
+    }
 }

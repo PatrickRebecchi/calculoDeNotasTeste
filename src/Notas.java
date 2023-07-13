@@ -1,5 +1,5 @@
 public class Notas {
-
+// notas que vou usar na parte principal
     double portugues;
     double matematica;
     double arte;
